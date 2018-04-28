@@ -25,6 +25,9 @@ public class Test {
         return testService.getUser();
     }
 
+    /**
+     * 呵呵
+     */
     @RequestMapping("querylist")
     public void querylist(){
         String url = "http://localhost:8080/solr/mycore";
