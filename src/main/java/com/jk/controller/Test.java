@@ -26,7 +26,7 @@ public class Test {
     }
 
     /**
-     * 呵呵
+     * 呵呵哈哈
      */
     @RequestMapping("querylist")
     public void querylist(){
